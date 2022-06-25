@@ -13,6 +13,7 @@
 		0B5088AA28606A2500947ABB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0B5088A828606A2500947ABB /* Main.storyboard */; };
 		0B5088AC28606A2800947ABB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0B5088AB28606A2800947ABB /* Assets.xcassets */; };
 		0B5088AF28606A2800947ABB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0B5088AD28606A2800947ABB /* LaunchScreen.storyboard */; };
+		0B5088B728608ED900947ABB /* extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B5088B628608ED900947ABB /* extension.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		0B5088AB28606A2800947ABB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0B5088AE28606A2800947ABB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0B5088B028606A2800947ABB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0B5088B628608ED900947ABB /* extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = extension.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				0B5088A228606A2500947ABB /* AppDelegate.swift */,
 				0B5088A428606A2500947ABB /* SceneDelegate.swift */,
 				0B5088A628606A2500947ABB /* ViewController.swift */,
+				0B5088B628608ED900947ABB /* extension.swift */,
 				0B5088A828606A2500947ABB /* Main.storyboard */,
 				0B5088AB28606A2800947ABB /* Assets.xcassets */,
 				0B5088AD28606A2800947ABB /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				0B5088A728606A2500947ABB /* ViewController.swift in Sources */,
 				0B5088A328606A2500947ABB /* AppDelegate.swift in Sources */,
 				0B5088A528606A2500947ABB /* SceneDelegate.swift in Sources */,
+				0B5088B728608ED900947ABB /* extension.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
